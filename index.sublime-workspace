@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"list-table",
+				"list-table__cell"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"icon-contc",
+				"icon-contact-phone"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"lef",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Minnie/Documents/papaya/index.html",
+		"/Users/Minnie/Documents/papaya/css/style.css",
+		"/Users/Minnie/Documents/papaya/css/font-awesome.css",
+		"/Users/Minnie/Documents/papaya/index2.html",
+		"/Users/Minnie/Documents/papaya/style.css",
+		"/Users/Minnie/Documents/papaya/media/sexy-social-buttons/index.html",
+		"/Users/Minnie/fss-fed/source/partials/modals/_modal-access-add-user.erb",
+		"/Users/Minnie/fss-fed/source/assets/css/modules/components/_download-links.scss",
+		"/Users/Minnie/fss-fed/source/assets/css/modules/_links-buttons.scss",
+		"/Users/Minnie/fss-fed/source/M-22-table.html.erb",
+		"/Users/Minnie/fss-fed/source/partials/modules/_M-22-table.erb",
+		"/Users/Minnie/fss-fed/source/assets/css/modules/_action-list.scss",
+		"/Users/Minnie/fss-fed/source/assets/css/modules/_transaction-list.scss",
+		"/Users/Minnie/fss-fed/source/assets/css/global/_modal.scss",
+		"/Users/Minnie/fss-fed/source/assets/css/global/_responsive-table.scss",
+		"/Users/Minnie/fss-fed/source/partials/components/_downloads-links.erb",
+		"/Users/Minnie/fss-fed/source/assets/css/forms/_flowform-panel.scss",
+		"/Users/Minnie/fss-fed/build/M-29-download.html",
+		"/Users/Minnie/fss-fed/source/assets/css/forms/_form-fancy-checkboxes.scss",
+		"/Users/Minnie/fss-fed/source/assets/css/style.css",
+		"/Users/Minnie/fss-fed/source/partials/modals/_modal-access-edit-user.erb",
+		"/Users/Minnie/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Minnie/fss-fed/source/partials/modules/forms/_flowform.erb",
+		"/Users/Minnie/fss-fed/source/T-08-Short-form-submission.html.erb",
+		"/Users/Minnie/fss-fed/source/T-08-Short-form.html.erb",
+		"/Users/Minnie/fss-fed/source/partials/modules/_feature-contact-module.erb",
+		"/Users/Minnie/fss-fed/source/S-18-add-employee-matching.html.erb",
+		"/Users/Minnie/fss-fed/source/S-15-Manage-beneficiaries.html.erb",
+		"/Users/Minnie/fss-fed/source/assets/css/style.static.css.scss",
+		"/Users/Minnie/fss-fed/source/assets/css/style.css.scss",
+		"/Users/Minnie/fss-fed/source/assets/css/style.static.css",
+		"/Users/Minnie/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Minnie/fss-fed/source/S-46-Credentials-member.html.erb",
+		"/Users/Minnie/fss-fed/source/partials/forms/shortform/_submission.erb",
+		"/Users/Minnie/fss-fed/source/investment-switch.html.erb",
+		"/Users/Minnie/fss-fed/source/C-02-graph-table.html.erb",
+		"/Users/Minnie/Documents/T-08-Short-form-submission.html.erb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Minnie/fss-fed/source, /Users/Minnie/fss-fed/data",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".icon-button",
+			".icon-facebook",
+			"button",
+			"facebook",
+			"cta--custom-icon",
+			"fn_modal-open",
+			"fn_next",
+			"fn_next secondary",
+			"fn-next secondary",
+			"fn next secondary",
+			"remove user",
+			"confirmation",
+			"scrolltable",
+			".c-download-links__item:nth-child(n+2)",
+			"noicon",
+			"51",
+			"a.cta",
+			"a.cta--custom",
+			"slim",
+			".action-sections",
+			"slim",
+			"download-links__item:nth-child(n+2)",
+			".formpanel__header",
+			"40px",
+			".formpanel__header",
+			"radius",
+			".form",
+			".formpanel__header",
+			".formpanel_header",
+			"|",
+			"cta-noicon",
+			"cta cta--noicon primary fn_modal-open",
+			"radio",
+			".fancy-checkbox",
+			".list-table__cell",
+			"@media",
+			".list-table__cell",
+			"td.list-table",
+			".c-download-links",
+			".list-table__cell",
+			".fancy-radio",
+			".list-table__cell",
+			"list-table-cell",
+			"action-sections",
+			".action-sections",
+			".fancy",
+			"mc_cols",
+			"mc_cols_classes",
+			"mc-cols",
+			"M",
+			"m",
+			"mc-cols",
+			"modules",
+			"forms",
+			"tertiary",
+			"div",
+			".h5",
+			"partials/modules/forms/flowform",
+			"<%= partial(\"partials/modules/forms/flowform\", :locals =>",
+			".formpanel",
+			"form_panelheader",
+			"content",
+			".content {",
+			".content{",
+			".content",
+			" content",
+			"short form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"linksbutton",
+				"source/assets/css/modules/_links-buttons.scss"
+			],
+			[
+				"transactionli",
+				"source/assets/css/modules/_transaction-list.scss"
+			],
+			[
+				"formpanel",
+				"source/partials/modules/forms/_flowform-panel.erb"
+			],
+			[
+				"links",
+				"source/assets/css/modules/_links-buttons.scss"
+			],
+			[
+				"download",
+				"source/assets/css/modules/components/_download-links.scss"
+			],
+			[
+				"fancy",
+				"source/assets/css/forms/_form-fancy-checkboxes.scss"
+			],
+			[
+				"modals/modal-access-edit-user",
+				"source/partials/modals/_modal-access-edit-user.erb"
+			],
+			[
+				"formpanel.scs",
+				"source/assets/css/forms/_flowform-panel.scss"
+			],
+			[
+				"t-08su",
+				"source/T-08-Short-form-submission.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

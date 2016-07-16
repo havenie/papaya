@@ -90,7 +90,7 @@ h1 {
 	width: 3.6rem;
 	z-index: 10;
 }
-.icon-button .icon-instagram {
+.fa-instagram {
 	color: #5c3d2e;
 }
 
@@ -98,7 +98,7 @@ h1 {
 	color: #3B5998;
 }
 
-.icon-button:hover .icon-instagram,
+.icon-button:hover .fa-instagram,
 .icon-button:hover .icon-facebook
 {
 	color: white;
