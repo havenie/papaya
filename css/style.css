@@ -24,7 +24,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 
-.social
+ul
 {
 	margin: 10px;
 	height: 200px;
@@ -37,7 +37,7 @@ body {
 
 .social-icons {
 	max-width: 980px;
-	margin: 0 auto;
+	margin: auto;
 }
 
 .icon {
@@ -54,9 +54,7 @@ body {
 		padding-bottom: 9%;
 	}
 }
-.icon:last-of-type {
-	margin-right: 0;
-}
+
 .icon a {
 	display: block;
 	position: absolute;
@@ -107,17 +105,12 @@ body {
 
 .icon--facebook a {
 	background-color: #3b5998;
-	background-image: url("http://benhodgson.net/codepen/social/facebook-128.png");
-}
-
-.icon--linkedin a {
-	background-color: #007fb1;
-	background-image: url("http://benhodgson.net/codepen/social/linkedin-128.png");
+	background-image: url("../media/facebook-128.png");
 }
 
 .icon--instagram a {
 	background-color: #5c3d2e;
-	background-image: url("http://benhodgson.net/codepen/social/instagram-128.png");
+	background-image: url("../media/instagram-128.png");
 }
 
 /*-----SOCIAL BAR END---*/
