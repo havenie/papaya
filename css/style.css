@@ -24,6 +24,17 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 
+.social
+{
+	margin: 10px;
+	height: 200px;
+}
+
+
+
+
+/*----SOCIAL BAR----*/
+
 .social-icons {
 	max-width: 980px;
 	margin: 0 auto;
@@ -108,3 +119,10 @@ body {
 	background-color: #5c3d2e;
 	background-image: url("http://benhodgson.net/codepen/social/instagram-128.png");
 }
+
+/*-----SOCIAL BAR END---*/
+
+
+
+
+
